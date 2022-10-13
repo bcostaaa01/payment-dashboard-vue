@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Overzicht van de betelling</h1>
+        <h1>Overzicht van de bestelling</h1>
         <OrderSummary />
         <PaymentCheckout />
     </div>
