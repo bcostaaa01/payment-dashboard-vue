@@ -1,4 +1,8 @@
-# payment-dashboard
+# 💸 payment-dashboard
+
+A simple payment/checkout dashboard integrating different payment method testing demos to test how the overall frontend would look like, more or less. We can say it is a sort of Albert Heijn clone.
+
+The frontend was built with Vue.
 
 ## Project setup
 ```
